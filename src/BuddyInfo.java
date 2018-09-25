@@ -42,5 +42,9 @@ public class BuddyInfo {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+	
+	private void newMethod() { 
+		System.out.println("Testing new branch");
+	}
 
 }
