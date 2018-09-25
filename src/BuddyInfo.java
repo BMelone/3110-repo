@@ -12,7 +12,7 @@ public class BuddyInfo {
 	private String address;
 	
 	public static void main(String[] args) {
-		//System.out.println("Hello World!");
+		//System.out.println("Hello World! changed");
 		BuddyInfo buddy = new BuddyInfo();
 		buddy.setName("Homer");
 		System.out.println("Hello " + buddy.getName());
