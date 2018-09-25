@@ -43,7 +43,7 @@ public class BuddyInfo {
 		this.address = address;
 	}
 	
-	private void newMethod() { 
+	public void newMethod() { 
 		System.out.println("Testing new branch");
 	}
 
